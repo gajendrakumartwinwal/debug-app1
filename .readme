@@ -1,0 +1,51 @@
+Background
+
+Modules
+	- Asynchronous Module Definition (AMD)
+	- CommonJS (CJS)
+	- ES Module (ESM)
+	- System.register
+	- Universal Module Definition (UMD)
+
+
+
+- Single file Demo
+	- Evaluate								DONE
+	- Conditional/Mode debugging			DONE
+	- executation stack						DONE
+	- View break points at one places
+		- Disable							DONE
+		- Enable							DONE
+		- Grouping							DONE
+		- Mute 								DONE
+ 	- Watch/Variables window				DONE
+	- Actions[Step over, Step into, Force step into, Step out]			PENDING: Force step into
+	- Behaviour change without running									DONE
+	- Single line multi executation										DONE
+	- Logging debug 													DONE
+	- Other as inheritence where debug can be added in implemented interface and debugger will be stopped at all the places
+
+
+- Multiple file demo[module.export]										DONE
+- Babel[https://github.com/jamiebuilds/the-super-tiny-compiler]			DONE
+- Webpack involvement                                                   DONE
+- Multiple file demo[import export debug]                               DONE
+- Async function debugging                                              DONE
+- Debugging in watch mode[webpack watch or nodemon]                     DONE
+- One click setup                                                       DONE
+
+- Expedia application debuggioin demo
+
+POSSIBLE ENHANCEMENTS:
+	- Single click debugging for all the repos
+	- ENV(LAB, INT, DEMO, PROD, DOCKER) single click setup
+	- Intermediate application debug using single setup+single  click above
+	          SERVICE-A      ---->     SERVICE-B      ---->      SERVICE-C       ---->  SERVICE-D  ---->  SERVICE-E
+	        (vac-client)             (vac-service)           (vac-config-api)
+
+
+
+
+
+
+
