@@ -9,7 +9,7 @@ Modules
 
 
 
-- Single file Demo
+- STEP-1: Single file Demo
 	- Evaluate								DONE
 	- Conditional/Mode debugging			DONE
 	- executation stack						DONE
@@ -26,13 +26,14 @@ Modules
 	- Other as inheritence where debug can be added in implemented interface and debugger will be stopped at all the places
 
 
-- Multiple file demo[module.export]										DONE
-- Babel[https://github.com/jamiebuilds/the-super-tiny-compiler]			DONE
-- Webpack involvement                                                   DONE
-- Multiple file demo[import export debug]                               DONE
-- Async function debugging                                              DONE
-- Debugging in watch mode[webpack watch or nodemon]                     DONE
-- One click setup                                                       DONE
+- STEP-2: Multiple file demo[module.export]										DONE
+- STEP-3: Babel[https://github.com/jamiebuilds/the-super-tiny-compiler]			DONE
+- STEP-4: Webpack involvement                                                   DONE
+- STEP-5: Multiple file demo[import export debug]                               DONE
+- STEP-6: Async function debugging                                              DONE
+- STEP-7: Debugging in watch mode[webpack watch or nodemon]                     DONE
+- STEP-8: One click setup                                                       DONE
+    - Link: https://www.jetbrains.com/help/webstorm/run-debug-configuration.html#config-folders
 
 - Expedia application debuggioin demo
 
